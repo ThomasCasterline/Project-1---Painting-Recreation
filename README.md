@@ -1,5 +1,5 @@
 # Project-1---Painting-Recreation
-Project was to re-create a painting using Code, I re-created the painting "Christina's World" by Andrew Wyeth
+The project was to re-create a painting using Code, I re-created the painting "Christina's World" by Andrew Wyeth
 
 void setup () {
   size (720, 480);
